@@ -1,0 +1,349 @@
+  108  nano -T 3 GenerateTenRandomThreeDigitNumInArray.sh
+  109  ./GenerateTenRandomThreeDigitNumInArray.sh
+  110  ./GenerateTenRandomThreeDigitNumInArray.sh
+  111  ./GenerateTenRandomThreeDigitNumInArray.sh
+  112  ./GenerateTenRandomThreeDigitNumInArray.sh
+  113  nano -T 3 GenerateTenRandomThreeDigitNumInArray.sh
+  114  ./GenerateTenRandomThreeDigitNumInArray.sh
+  115  ./GenerateTenRandomThreeDigitNumInArray.sh
+  116  ./GenerateTenRandomThreeDigitNumInArray.sh
+  117  ./GenerateTenRandomThreeDigitNumInArray.sh
+  118  ./GenerateTenRandomThreeDigitNumInArray.sh
+  119  ./GenerateTenRandomThreeDigitNumInArray.sh
+  120  ./GenerateTenRandomThreeDigitNumInArray.sh
+  121  ./GenerateTenRandomThreeDigitNumInArray.sh
+  122  ./GenerateTenRandomThreeDigitNumInArray.sh
+  123  ./GenerateTenRandomThreeDigitNumInArray.sh
+  124  ./GenerateTenRandomThreeDigitNumInArray.sh
+  125  ./GenerateTenRandomThreeDigitNumInArray.sh
+  126  ./GenerateTenRandomThreeDigitNumInArray.sh
+  127  ./GenerateTenRandomThreeDigitNumInArray.sh
+  128  ./GenerateTenRandomThreeDigitNumInArray.sh
+  129  ./GenerateTenRandomThreeDigitNumInArray.sh
+  130  ./GenerateTenRandomThreeDigitNumInArray.sh
+  131  ./GenerateTenRandomThreeDigitNumInArray.sh
+  132  ./GenerateTenRandomThreeDigitNumInArray.sh
+  133  ./GenerateTenRandomThreeDigitNumInArray.sh
+  134  ./GenerateTenRandomThreeDigitNumInArray.sh
+  135  ./GenerateTenRandomThreeDigitNumInArray.sh
+  136  ./GenerateTenRandomThreeDigitNumInArray.sh
+  137  ./GenerateTenRandomThreeDigitNumInArray.sh
+  138  ./GenerateTenRandomThreeDigitNumInArray.sh
+  139  ./GenerateTenRandomThreeDigitNumInArray.sh
+  140  ./GenerateTenRandomThreeDigitNumInArray.sh
+  141  ./GenerateTenRandomThreeDigitNumInArray.sh
+  142  ./GenerateTenRandomThreeDigitNumInArray.sh
+  143  ./GenerateTenRandomThreeDigitNumInArray.sh
+  144  ./GenerateTenRandomThreeDigitNumInArray.sh
+  145  ./GenerateTenRandomThreeDigitNumInArray.sh
+  146  ./GenerateTenRandomThreeDigitNumInArray.sh
+  147  ./GenerateTenRandomThreeDigitNumInArray.sh
+  148  ./GenerateTenRandomThreeDigitNumInArray.sh
+  149  ./GenerateTenRandomThreeDigitNumInArray.sh
+  150  ./GenerateTenRandomThreeDigitNumInArray.sh
+  151  ./GenerateTenRandomThreeDigitNumInArray.sh
+  152  ./GenerateTenRandomThreeDigitNumInArray.sh
+  153  ./GenerateTenRandomThreeDigitNumInArray.sh
+  154  ./GenerateTenRandomThreeDigitNumInArray.sh
+  155  ./GenerateTenRandomThreeDigitNumInArray.sh
+  156  ./GenerateTenRandomThreeDigitNumInArray.sh
+  157  ./GenerateTenRandomThreeDigitNumInArray.sh
+  158  ./GenerateTenRandomThreeDigitNumInArray.sh
+  159  ./GenerateTenRandomThreeDigitNumInArray.sh
+  160  ./GenerateTenRandomThreeDigitNumInArray.sh
+  161  ./GenerateTenRandomThreeDigitNumInArray.sh
+  162  ./GenerateTenRandomThreeDigitNumInArray.sh
+  163  ./GenerateTenRandomThreeDigitNumInArray.sh
+  164  ./GenerateTenRandomThreeDigitNumInArray.sh
+  165  ./GenerateTenRandomThreeDigitNumInArray.sh
+  166  ./GenerateTenRandomThreeDigitNumInArray.sh
+  167  ./GenerateTenRandomThreeDigitNumInArray.sh
+  168  ./GenerateTenRandomThreeDigitNumInArray.sh
+  169  ./GenerateTenRandomThreeDigitNumInArray.sh
+  170  ./GenerateTenRandomThreeDigitNumInArray.sh
+  171  ./GenerateTenRandomThreeDigitNumInArray.sh
+  172  ./GenerateTenRandomThreeDigitNumInArray.sh
+  173  ./GenerateTenRandomThreeDigitNumInArray.sh
+  174  ./GenerateTenRandomThreeDigitNumInArray.sh
+  175  ./GenerateTenRandomThreeDigitNumInArray.sh
+  176  ./GenerateTenRandomThreeDigitNumInArray.sh
+  177  ./GenerateTenRandomThreeDigitNumInArray.sh
+  178  ./GenerateTenRandomThreeDigitNumInArray.sh
+  179  ./GenerateTenRandomThreeDigitNumInArray.sh
+  180  ./GenerateTenRandomThreeDigitNumInArray.sh
+  181  ./GenerateTenRandomThreeDigitNumInArray.sh
+  182  ./GenerateTenRandomThreeDigitNumInArray.sh
+  183  ./GenerateTenRandomThreeDigitNumInArray.sh
+  184  ./GenerateTenRandomThreeDigitNumInArray.sh
+  185  ./GenerateTenRandomThreeDigitNumInArray.sh
+  186  ./GenerateTenRandomThreeDigitNumInArray.sh
+  187  ./GenerateTenRandomThreeDigitNumInArray.sh
+  188  ./GenerateTenRandomThreeDigitNumInArray.sh
+  189  ./GenerateTenRandomThreeDigitNumInArray.sh
+  190  ./GenerateTenRandomThreeDigitNumInArray.sh
+  191  ./GenerateTenRandomThreeDigitNumInArray.sh
+  192  ./GenerateTenRandomThreeDigitNumInArray.sh
+  193  ./GenerateTenRandomThreeDigitNumInArray.sh
+  194  ./GenerateTenRandomThreeDigitNumInArray.sh
+  195  ./GenerateTenRandomThreeDigitNumInArray.sh
+  196  ./GenerateTenRandomThreeDigitNumInArray.sh
+  197  nano -T 3 GenerateTenRandomThreeDigitNumInArray.sh
+  198  ./GenerateTenRandomThreeDigitNumInArray.sh
+  199  nano -T 3 GenerateTenRandomThreeDigitNumInArray.sh
+  200  ./GenerateTenRandomThreeDigitNumInArray.sh
+  201  nano -T 3 GenerateTenRandomThreeDigitNumInArray.sh
+  202  ./GenerateTenRandomThreeDigitNumInArray.sh
+  203  nano -T 3 GenerateTenRandomThreeDigitNumInArray.sh
+  204  ./GenerateTenRandomThreeDigitNumInArray.sh
+  205  nano -T 3 GenerateTenRandomThreeDigitNumInArray.sh
+  206  ./GenerateTenRandomThreeDigitNumInArray.sh
+  207  nano -T 3 GenerateTenRandomThreeDigitNumInArray.sh
+  208  ./GenerateTenRandomThreeDigitNumInArray.sh
+  209  nano -T 3 GenerateTenRandomThreeDigitNumInArray.sh
+  210  ./GenerateTenRandomThreeDigitNumInArray.sh
+  211  nano -T 3 GenerateTenRandomThreeDigitNumInArray.sh
+  212  ./GenerateTenRandomThreeDigitNumInArray.sh
+  213  nano -T 3 GenerateTenRandomThreeDigitNumInArray.sh
+  214  ./GenerateTenRandomThreeDigitNumInArray.sh
+  215  nano -T 3 GenerateTenRandomThreeDigitNumInArray.sh
+  216  ./GenerateTenRandomThreeDigitNumInArray.sh
+  217  nano -T 3 GenerateTenRandomThreeDigitNumInArray.sh
+  218  ./GenerateTenRandomThreeDigitNumInArray.sh
+  219  nano -T 3 GenerateTenRandomThreeDigitNumInArray.sh
+  220  ./GenerateTenRandomThreeDigitNumInArray.sh
+  221  nano -T 3 GenerateTenRandomThreeDigitNumInArray.sh
+  222  ./GenerateTenRandomThreeDigitNumInArray.sh
+  223  nano -T 3 GenerateTenRandomThreeDigitNumInArray.sh
+  224  ./GenerateTenRandomThreeDigitNumInArray.sh
+  225  nano -T 3 GenerateTenRandomThreeDigitNumInArray.sh
+  226  nano -T 3 GenerateTenRandomThreeDigitNumInArray.sh
+  227  ./GenerateTenRandomThreeDigitNumInArray.sh
+  228  nano -T 3 GenerateTenRandomThreeDigitNumInArray.sh
+  229  ./GenerateTenRandomThreeDigitNumInArray.sh
+  230  ./GenerateTenRandomThreeDigitNumInArray.sh
+  231  nano -T 3 GenerateTenRandomThreeDigitNumInArray.sh
+  232  ./GenerateTenRandomThreeDigitNumInArray.sh
+  233  nano -T 3 GenerateTenRandomThreeDigitNumInArray.sh
+  234  ./GenerateTenRandomThreeDigitNumInArray.sh
+  235  nano -T 3 GenerateTenRandomThreeDigitNumInArray.sh
+  236  ./GenerateTenRandomThreeDigitNumInArray.sh
+  237  nano -T 3 GenerateTenRandomThreeDigitNumInArray.sh
+  238  ./GenerateTenRandomThreeDigitNumInArray.sh
+  239  nano -T 3 GenerateTenRandomThreeDigitNumInArray.sh
+  240  ./GenerateTenRandomThreeDigitNumInArray.sh
+  241  nano -T 3 GenerateTenRandomThreeDigitNumInArray.sh
+  242  ./GenerateTenRandomThreeDigitNumInArray.sh
+  243  nano -T 3 GenerateTenRandomThreeDigitNumInArray.sh
+  244  ./GenerateTenRandomThreeDigitNumInArray.sh
+  245  nano -T 3 GenerateTenRandomThreeDigitNumInArray.sh
+  246  git add ProgrammingOnFunctions
+  247  git commit -m "ADDED:check number are palindrome or not.."
+  248  git push origin master
+  249  git add ProgrammingOnFunctions
+  250  git commit -m "ADDED:check number and their palindrome number prime or not.."
+  251  git push origin master
+  252  git add ProgrammingOnArrays/
+  253  git commit -m "ADDED:simple array test example.."
+  254  git push origin master
+  255  git add ProgrammingOnArrays/
+  256  git commit -m "ADDED:store daily wages in array.."
+  257  git push origin master
+  260  git init
+  261  git add HelloWorld.java
+  262  git config --list
+  263  git add.
+  264  git add .
+  265  git commit -m "ADDED: simple program by hello world.."
+  266   git config --global user.email "twankhede95@gmail.com"
+  267  git config --global user.name "Tushar-W"
+  268  git commit -m "ADDED: simple program by hello world.."
+  269  git remote add origin https://github.com/Tushar-W/Demo.git
+  270  git push origin master
+  271  git pull origin master
+  274  git add .
+  275  git commit -m "MODIFED: changes in welcome msg all letters are capital.."
+  276  git pull origin master
+  278  git push origin master
+  279  git branch
+  280  git init
+  282  git add .
+  283  git commit -m "ADDED: add simple hello world msg"
+  284  git remote add origin https://github.com/Tushar-W/Demo.git
+  285  git push origin master
+  286  git branch
+  287  git branch feature
+  288  git branch
+  289  git checkout feature
+  290  git branch
+  291  git checkout master
+  292  git branch
+  293  git checkout master
+  294  git checkout feature
+  296  git checkout master
+  297  git branch
+  298  git pull
+  299  git checkout feature
+  301  git merge master
+  302  git push feature
+  303  git push origin feature
+  304  git branch
+  306  git add .
+  307  git commit -m "MODIFIED: change in welcome msg"
+  308  git push origin feature
+  309  git pull origin feature
+  313  git push origin feature
+  314  git branch
+  315  git pull origin feature
+  316  git push origin feature
+  318  git push origin feature
+  319  git push origin feature
+  320  git add .
+  321  git commit -m "Modified: solving conflicts"
+  322  git push origin feature
+  323  git checkout master
+  324  git merge feature
+  325  git add .
+  326  git commit -m "ADDED: merging file from feature"
+  327  git push origin master
+  328  git add .
+  329  git commit -m "ADDED: added updated file"
+  330  git push origin master
+  331  git branch
+  332  git add .
+  333  git commit -m "ADDED: updated file"
+  334  git push origin master
+  335  git pull origin master
+  338  git add .
+  339  git commit -m "ADDED: updated file"
+  340  git push origin master
+  341  git add ProgrammingOnDictionaries/
+  342  git commit -m "ADDED:basic dictionary example.."
+  343  git push origin master
+  358  nano -T 3 GenerateTenRandomThreeDigitNumInArray.sh 
+  359  ./GenerateTenRandomThreeDigitNumInArray.sh 
+  360  nano -T 3 GenerateTenRandomThreeDigitNumInArray.sh 
+  361  ./GenerateTenRandomThreeDigitNumInArray.sh 
+  362  nano -T 3 GenerateTenRandomThreeDigitNumInArray.sh 
+  363  ./GenerateTenRandomThreeDigitNumInArray.sh 
+  365  git add ProgrammingOnArrays/GenerateTenRandomThreeDigitNumInArray.sh 
+  366  git commit -m "ADDED:generates ten random three digit numbers and store in array."
+  367  git push origin master
+  368  nano -T 3 GenerateTenRandomThreeDigitNumInArray.sh 
+  369  nano -T 3 GenerateTenRandomThreeDigitNumInArray.sh 
+  371  nano -T 3 GenerateTenRandomThreeDigitNumInArray.sh 
+  372  git init
+  375  git add .
+  376  git commit -m "ADD: Welcome Message"
+  377  git remote add origin https://github.com/Tushar-W/Employee-Wage-Computation.git
+  378  git remote -v
+  379  git add .
+  380  git commit -m "ADD: Welcome Message"
+  381  git push origin master
+  382  git status
+  383  git add .
+  384  git commit -m "ADD: Welcome Message"
+  385  git pull origin master
+  386  git add .
+  387  git commit -m "ADD: Welcome Message"
+  388  git push origin master
+  389  git init
+  390  git remote -v
+  391  git remote add origin https://github.com/Tushar-W/Employee-Wage-Computation.git
+  392  git remote -v
+  395  git add .
+  396  git commit -m "ADD: Welcome Message"
+  397  git config user.email "twankhede95@gmail.com"
+  398  git config user.name "Tushar-W"
+  399  git push origin master
+  400  git pull origin master
+  401  git add .
+  402  git commit -m "ADD: Welcome Message"
+  403  git push origin master
+  404  git push --help
+  405  echo "# GitHub practicing" >> README.md
+  406  git init
+  407  git add README.md
+  408  git commit -m "ADD: readme file"
+  409  git add README.md
+  410  git remote add origin https://github.com/Tushar-W/Demo.git
+  411  git push origin master
+  413  git add .
+  414  git commit -m "ADD: Hello world message"
+  415  git push origin master
+  417  git add .
+  418  git commit -m "MODIFIED: hello world message in small case"
+  419  git push origin master
+  420  git pull origin master
+  422  git add HelloWorld.java
+  423  git commit -m "FIX: remove duplicate message"
+  424  git push origin master
+  425  git status
+  426  git status
+  427  git diff
+  428  git diff master master
+  429  git pull origin master
+  430  git diff
+  431  git diff master 
+  432  git diff master master
+  433  git diff HelloWorld.java
+  434  git diff .
+  435  git diff -staged HelloWorld.java
+  436  git diff HelloWorld.java
+  438  git add HelloWorld.java 
+  439  git commit -m "MODIFIED: add Welcome word in hello message"
+  440  git status 
+  441  git pull origin master
+  443  git add HelloWorld.java 
+  444  git commit -m "FIX: fixes conflicts in hello world message"
+  445  git push origin master
+  446  git branch 
+  447  git branch feature
+  448  git branch
+  449  git status
+  450  git checkout feature 
+  451  git branch
+  452  git status
+  453  git checkout master
+  454  git pull origin master
+  455  git diff 
+  456  git diff master origin master
+  457  git diff master -- master
+  458  git diff master -- origin master
+  459  git diff master feature
+  460  git branch
+  461  git checkout -b feature
+  462  git branch
+  464  git pull origin master
+  465  git status
+  466  git diff master feature
+  467  git checkout feature
+  468  git merge master
+  469  git status
+  471  git merge master
+  472  git merge master
+  474  git add HelloWorld.java 
+  475  git commit -m "MODIFIED: welcome message"
+  476  git pull origin master
+  477  git push origin feature
+  478  git merge master
+  479  git checkout master
+  481  git checkout feature
+  482  git merge master
+  483  git checkout master
+  485  git merge feature
+  487  git add HelloWorld.java 
+  488  git commit -m "MODIFIED: welcome message"
+  489  git push origin master
+  490  history | grep git
+  491  history | $grep "git"
+  492  history | $grep -o "git"
+  493  history | grep git > GitHubCommands.txt
+  494  nano GitHubCommands.txt 
+  495  history | $grep "git" > GitHubCommands.txt
+  496  nano GitHubCommands.txt 
+  497  git help -a
+  498  gitgcgclear
+  500  history | $ grep -a "git" > GitHubCommands.txt 
+  501  history | grep -a "git" > GitHubCommands.txt 
+  502  nano GitHubCommands.txt 
+  503  history | grep -i "git" > GitHubCommands.txt 
