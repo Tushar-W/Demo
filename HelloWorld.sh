@@ -6,15 +6,15 @@ ranNum=$((RANDOM%3));
 empWagePerHr=20;
 
 case	$ranNum	in
-	$FULL_TIME)
-		workHr=8
-		;;
-	$PART_TIME)
-		workHr=4
-		;;
-	*)
-		workHr=0
-		;;
+		$FULL_TIME)
+			workHr=8
+			;;
+		$PART_TIME)
+			workHr=4
+			;;
+		*)
+			workHr=0
+			;;
 esac
 
 echo wage=$(($workHr*$empWagePerHr));
